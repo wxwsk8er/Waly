@@ -1,0 +1,10 @@
+Database:
+  Hostname: example.net
+  Username: wxwsk8er
+  Password: wookies_in_the_trees
+  Port: 3306
+  Database: test_db
+
+Players:
+  Allow_Join:
+  

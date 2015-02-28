@@ -1,0 +1,17 @@
+name: Waly
+version: 0.1
+main: me.wxwsk8er.Waly.Waly
+author: wxwsk8er
+commands:
+  setLobby:
+    description: Set the lobby location
+  help:
+    description: Show help information
+  clear:
+    description: Clear your chat!
+  lobby:
+    description: Send player to lobby
+  class:
+    description: Show class selector
+  kit:
+    description: Show class selector
